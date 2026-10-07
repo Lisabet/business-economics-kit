@@ -1,0 +1,16 @@
+{
+  "kind": "educational-assumptions",
+  "business": "ИИ-помощник для подготовки писем",
+  "currency": "RUB",
+  "horizon_months": 12,
+  "price": 1490,
+  "first_month_discount": 0.7,
+  "renewal_rate": 0.7,
+  "monthly_media": 30000,
+  "cost_per_visit": 25,
+  "visit_to_payment": 0.03,
+  "variable_cost_per_paid_month": 80,
+  "monthly_fixed_cost": 20000,
+  "startup_cost": 60000,
+  "cash_reserve_rate": 0.2
+}
