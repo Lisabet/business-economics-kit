@@ -1,0 +1,23 @@
+{
+  "version": "0.1.0",
+  "package_date": "2026-10-07",
+  "author": "Елизавета Трибунская",
+  "website": "https://tribunska.ru/",
+  "skill": "skills/adapt-business-economics/SKILL.md",
+  "workbooks": [
+    {
+      "model": "b2c-subscription",
+      "path": "skills/adapt-business-economics/assets/Ритм — модель для самостоятельного расчёта 2026-10-05.xlsx",
+      "version_date": "2026-10-05",
+      "bytes": 1384804,
+      "sha256": "ee5413c10f831a285c781aad6da1366b574b0f74d3215cb24146a043d505e685"
+    },
+    {
+      "model": "b2b-saas",
+      "path": "skills/adapt-business-economics/assets/B2B SaaS — модель запуска 2026-10-05.xlsx",
+      "version_date": "2026-10-05",
+      "bytes": 1393184,
+      "sha256": "8c2b4ab24d47b3df756ddd52ba75ee923b3afbe08a459cb6adb2aebac4f61b50"
+    }
+  ]
+}
